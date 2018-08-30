@@ -1,4 +1,4 @@
-import { CalculatorPage } from '../pages/calculator/calculator'
+import { CalculatorPage } from '../calculator/calculator'
 import { Component } from '@angular/core';
 
 import { AboutPage } from '../about/about';
